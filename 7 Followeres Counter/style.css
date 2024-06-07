@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.image{
+    height: 40vh;
+    width: 60vw;
+    background-color: rgba(0, 0, 0, 0.088);
+    margin-left: 20vw;
+    margin-top: 20vh;
+ 
+}
+.d{
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 1.8em;
+    margin-left: 10vw;
+}
+.counter{
+    font-family: 'Press Start 2P', sans-serif;
+   
+    font-size: 3em;
+    margin-left: 25vw;
+    margin-top: 10px;
+}
+.change{
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 1.8em;
+    margin-left: 10vw;
+}
+button{
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 1.5em;
+     height: 50px;
+     width: 800px;
+     margin-top: 20px;
+     margin-left: 90px;
+     background-color: chocolate;
+}   
+button:hover{
+    background-color: chartreuse;
+}
